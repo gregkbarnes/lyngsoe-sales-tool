@@ -116,7 +116,7 @@
 
 
 	// module
-	exports.push([module.id, "h1 {\n  color: red;\n}\n", ""]);
+	exports.push([module.id, "h1 {\r\n  color: red;\r\n}\r\n", ""]);
 
 	// exports
 
